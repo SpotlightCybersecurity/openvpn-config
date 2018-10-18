@@ -36,3 +36,5 @@ You'll be prompted to enter the CA private key's password. I hope you remembered
 At the end, the script will tell you where is stored the client's OVPN file.
 
 Voila! Quick and easy OpenVPN configs!
+
+[1]:https://github.com/OpenVPN/easy-rsa
